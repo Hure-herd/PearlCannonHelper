@@ -34,104 +34,104 @@ QT_BEGIN_NAMESPACE
 class Ui_PearlCannonHelperClass
 {
 public:
-    QWidget *centralWidget;
-    QVBoxLayout *verticalLayout_7;
-    QTabWidget *tabWidget;
-    QWidget *tab_2;
-    QVBoxLayout *verticalLayout_5;
-    QHBoxLayout *horizontalLayout_5;
-    QVBoxLayout *verticalLayout_4;
-    QGroupBox *groupBox_3;
-    QGridLayout *gridLayout_4;
-    QLineEdit *pearlZLineEdit;
-    QLineEdit *pearlXLineEdit;
-    QLineEdit *PlayerYLineEdit;
-    QLabel *pearlZLabel;
-    QComboBox *rotationComboBox;
-    QLabel *rotationLabel;
-    QLabel *PlayerYLabel;
-    QLabel *pearlXLabel;
-    QGroupBox *groupBox;
-    QGridLayout *gridLayout_5;
-    QLabel *posZLabel_3;
-    QLineEdit *dstXLineEdit;
-    QLabel *posXLabel_3;
-    QLineEdit *dstZLineEdit;
-    QVBoxLayout *verticalLayout;
-    QGroupBox *groupBox_4;
-    QGridLayout *gridLayout_6;
-    QLabel *maxUnitLabel;
-    QLabel *groundYLabel_2;
-    QLineEdit *maxTickLineEdit_2;
-    QLineEdit *groundYLineEdit_2;
-    QSpinBox *maxTNTSpinBox;
-    QLabel *maxTickLabel_2;
-    QLineEdit *selectedSettingBitsLineEdit;
-    QGridLayout *gridLayout_7;
-    QPushButton *applyPushButton;
-    QSpacerItem *horizontalSpacer_4;
-    QPushButton *genPushButton;
-    QSpacerItem *horizontalSpacer_6;
-    QTableWidget *settingTableWidget;
-    QWidget *tab;
-    QVBoxLayout *verticalLayout_6;
-    QHBoxLayout *horizontalLayout_2;
-    QGroupBox *posGroupBox;
-    QGridLayout *gridLayout;
-    QLabel *posYLabel;
-    QLineEdit *posYLineEdit;
-    QLabel *posXLabel;
-    QLineEdit *posZLineEdit;
-    QLineEdit *posXLineEdit;
-    QLabel *posZLabel;
-    QGroupBox *motionGroupBox;
-    QGridLayout *gridLayout_2;
-    QLineEdit *motionXLineEdit;
-    QLabel *motionXLabel;
-    QLabel *motionYLabel;
-    QLineEdit *motionZLineEdit;
-    QLineEdit *motionYLineEdit;
-    QLabel *motionZLabel;
-    QGroupBox *groupBox_5;
-    QGridLayout *gridLayout_8;
-    QLabel *groundYLabel;
-    QLineEdit *groundYLineEdit;
-    QLabel *maxTickLabel;
-    QLineEdit *maxTickLineEdit;
-    QGroupBox *groupBox_2;
-    QVBoxLayout *verticalLayout_3;
-    QVBoxLayout *verticalLayout_2;
-    QHBoxLayout *horizontalLayout_4;
-    QLabel *label_2;
-    QLineEdit *bitLineEdit;
-    QHBoxLayout *horizontalLayout;
-    QSpacerItem *horizontalSpacer_3;
-    QPushButton *copyBitPushButton;
-    QPushButton *pasteBitPushButton;
-    QSpacerItem *horizontalSpacer_5;
-    QGridLayout *gridLayout_3;
-    QHBoxLayout *horizontalLayout_8;
-    QLabel *amoutLabel1;
-    QSpinBox *amoutSpinBox1;
-    QHBoxLayout *horizontalLayout_7;
-    QLabel *amoutLabel2;
-    QSpinBox *amoutSpinBox2;
-    QHBoxLayout *horizontalLayout_6;
-    QLabel *label_3;
-    QComboBox *pitchComboBox;
-    QCheckBox *isStartFromExplosionCheckBox;
-    QHBoxLayout *horizontalLayout_9;
-    QLabel *label_6;
-    QComboBox *directionComboBox;
-    QHBoxLayout *horizontalLayout_11;
-    QCheckBox *displayMomentumCheckBox;
-    QTableWidget *traceTableWidget;
-    QHBoxLayout *horizontalLayout_3;
-    QComboBox *languageComboBox;
-    QSpacerItem *horizontalSpacer;
-    QLabel *CreditLabel;
+    QWidget* centralWidget;
+    QVBoxLayout* verticalLayout_7;
+    QTabWidget* tabWidget;
+    QWidget* tab_2;
+    QVBoxLayout* verticalLayout_5;
+    QHBoxLayout* horizontalLayout_5;
+    QVBoxLayout* verticalLayout_4;
+    QGroupBox* groupBox_3;
+    QGridLayout* gridLayout_4;
+    QLineEdit* pearlZLineEdit;
+    QLineEdit* pearlXLineEdit;
+    QLineEdit* PlayerYLineEdit;
+    QLabel* pearlZLabel;
+    QComboBox* rotationComboBox;
+    QLabel* rotationLabel;
+    QLabel* PlayerYLabel;
+    QLabel* pearlXLabel;
+    QGroupBox* groupBox;
+    QGridLayout* gridLayout_5;
+    QLabel* posZLabel_3;
+    QLineEdit* dstXLineEdit;
+    QLabel* posXLabel_3;
+    QLineEdit* dstZLineEdit;
+    QVBoxLayout* verticalLayout;
+    QGroupBox* groupBox_4;
+    QGridLayout* gridLayout_6;
+    QLabel* maxUnitLabel;
+    QLabel* groundYLabel_2;
+    QLineEdit* maxTickLineEdit_2;
+    QLineEdit* groundYLineEdit_2;
+    QSpinBox* maxTNTSpinBox;
+    QLabel* maxTickLabel_2;
+    QLineEdit* selectedSettingBitsLineEdit;
+    QGridLayout* gridLayout_7;
+    QPushButton* applyPushButton;
+    QSpacerItem* horizontalSpacer_4;
+    QPushButton* genPushButton;
+    QSpacerItem* horizontalSpacer_6;
+    QTableWidget* settingTableWidget;
+    QWidget* tab;
+    QVBoxLayout* verticalLayout_6;
+    QHBoxLayout* horizontalLayout_2;
+    QGroupBox* posGroupBox;
+    QGridLayout* gridLayout;
+    QLabel* posYLabel;
+    QLineEdit* posYLineEdit;
+    QLabel* posXLabel;
+    QLineEdit* posZLineEdit;
+    QLineEdit* posXLineEdit;
+    QLabel* posZLabel;
+    QGroupBox* motionGroupBox;
+    QGridLayout* gridLayout_2;
+    QLineEdit* motionXLineEdit;
+    QLabel* motionXLabel;
+    QLabel* motionYLabel;
+    QLineEdit* motionZLineEdit;
+    QLineEdit* motionYLineEdit;
+    QLabel* motionZLabel;
+    QGroupBox* groupBox_5;
+    QGridLayout* gridLayout_8;
+    QLabel* groundYLabel;
+    QLineEdit* groundYLineEdit;
+    QLabel* maxTickLabel;
+    QLineEdit* maxTickLineEdit;
+    QGroupBox* groupBox_2;
+    QVBoxLayout* verticalLayout_3;
+    QVBoxLayout* verticalLayout_2;
+    QHBoxLayout* horizontalLayout_4;
+    QLabel* label_2;
+    QLineEdit* bitLineEdit;
+    QHBoxLayout* horizontalLayout;
+    QSpacerItem* horizontalSpacer_3;
+    QPushButton* copyBitPushButton;
+    QPushButton* pasteBitPushButton;
+    QSpacerItem* horizontalSpacer_5;
+    QGridLayout* gridLayout_3;
+    QHBoxLayout* horizontalLayout_8;
+    QLabel* amoutLabel1;
+    QSpinBox* amoutSpinBox1;
+    QHBoxLayout* horizontalLayout_7;
+    QLabel* amoutLabel2;
+    QSpinBox* amoutSpinBox2;
+    QHBoxLayout* horizontalLayout_6;
+    QLabel* label_3;
+    QComboBox* pitchComboBox;
+    QCheckBox* isStartFromExplosionCheckBox;
+    QHBoxLayout* horizontalLayout_9;
+    QLabel* label_6;
+    QComboBox* directionComboBox;
+    QHBoxLayout* horizontalLayout_11;
+    QCheckBox* displayMomentumCheckBox;
+    QTableWidget* traceTableWidget;
+    QHBoxLayout* horizontalLayout_3;
+    QComboBox* languageComboBox;
+    QSpacerItem* horizontalSpacer;
+    QLabel* CreditLabel;
 
-    void setupUi(QMainWindow *PearlCannonHelperClass)
+    void setupUi(QMainWindow* PearlCannonHelperClass)
     {
         if (PearlCannonHelperClass->objectName().isEmpty())
             PearlCannonHelperClass->setObjectName(QString::fromUtf8("PearlCannonHelperClass"));
@@ -221,7 +221,7 @@ public:
         sizePolicy3.setHeightForWidth(pearlZLabel->sizePolicy().hasHeightForWidth());
         pearlZLabel->setSizePolicy(sizePolicy3);
         pearlZLabel->setFont(font1);
-        pearlZLabel->setAlignment(Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter);
+        pearlZLabel->setAlignment(Qt::AlignRight | Qt::AlignTrailing | Qt::AlignVCenter);
 
         gridLayout_4->addWidget(pearlZLabel, 1, 0, 1, 1);
 
@@ -257,7 +257,7 @@ public:
         sizePolicy3.setHeightForWidth(pearlXLabel->sizePolicy().hasHeightForWidth());
         pearlXLabel->setSizePolicy(sizePolicy3);
         pearlXLabel->setFont(font1);
-        pearlXLabel->setAlignment(Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter);
+        pearlXLabel->setAlignment(Qt::AlignRight | Qt::AlignTrailing | Qt::AlignVCenter);
 
         gridLayout_4->addWidget(pearlXLabel, 0, 0, 1, 1);
 
@@ -276,7 +276,7 @@ public:
         sizePolicy3.setHeightForWidth(posZLabel_3->sizePolicy().hasHeightForWidth());
         posZLabel_3->setSizePolicy(sizePolicy3);
         posZLabel_3->setFont(font1);
-        posZLabel_3->setAlignment(Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter);
+        posZLabel_3->setAlignment(Qt::AlignRight | Qt::AlignTrailing | Qt::AlignVCenter);
 
         gridLayout_5->addWidget(posZLabel_3, 1, 0, 1, 1);
 
@@ -293,7 +293,7 @@ public:
         sizePolicy3.setHeightForWidth(posXLabel_3->sizePolicy().hasHeightForWidth());
         posXLabel_3->setSizePolicy(sizePolicy3);
         posXLabel_3->setFont(font1);
-        posXLabel_3->setAlignment(Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter);
+        posXLabel_3->setAlignment(Qt::AlignRight | Qt::AlignTrailing | Qt::AlignVCenter);
 
         gridLayout_5->addWidget(posXLabel_3, 0, 0, 1, 1);
 
@@ -328,7 +328,7 @@ public:
         sizePolicy3.setHeightForWidth(maxUnitLabel->sizePolicy().hasHeightForWidth());
         maxUnitLabel->setSizePolicy(sizePolicy3);
         maxUnitLabel->setFont(font1);
-        maxUnitLabel->setAlignment(Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter);
+        maxUnitLabel->setAlignment(Qt::AlignRight | Qt::AlignTrailing | Qt::AlignVCenter);
 
         gridLayout_6->addWidget(maxUnitLabel, 0, 0, 1, 1);
 
@@ -436,7 +436,7 @@ public:
         sizePolicy3.setHeightForWidth(posYLabel->sizePolicy().hasHeightForWidth());
         posYLabel->setSizePolicy(sizePolicy3);
         posYLabel->setFont(font1);
-        posYLabel->setAlignment(Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter);
+        posYLabel->setAlignment(Qt::AlignLeading | Qt::AlignLeft | Qt::AlignVCenter);
 
         gridLayout->addWidget(posYLabel, 1, 0, 1, 1);
 
@@ -453,7 +453,7 @@ public:
         sizePolicy3.setHeightForWidth(posXLabel->sizePolicy().hasHeightForWidth());
         posXLabel->setSizePolicy(sizePolicy3);
         posXLabel->setFont(font1);
-        posXLabel->setAlignment(Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter);
+        posXLabel->setAlignment(Qt::AlignLeading | Qt::AlignLeft | Qt::AlignVCenter);
 
         gridLayout->addWidget(posXLabel, 0, 0, 1, 1);
 
@@ -478,7 +478,7 @@ public:
         sizePolicy3.setHeightForWidth(posZLabel->sizePolicy().hasHeightForWidth());
         posZLabel->setSizePolicy(sizePolicy3);
         posZLabel->setFont(font1);
-        posZLabel->setAlignment(Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter);
+        posZLabel->setAlignment(Qt::AlignLeading | Qt::AlignLeft | Qt::AlignVCenter);
 
         gridLayout->addWidget(posZLabel, 2, 0, 1, 1);
 
@@ -505,7 +505,7 @@ public:
         sizePolicy3.setHeightForWidth(motionXLabel->sizePolicy().hasHeightForWidth());
         motionXLabel->setSizePolicy(sizePolicy3);
         motionXLabel->setFont(font1);
-        motionXLabel->setAlignment(Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter);
+        motionXLabel->setAlignment(Qt::AlignLeading | Qt::AlignLeft | Qt::AlignVCenter);
 
         gridLayout_2->addWidget(motionXLabel, 0, 0, 1, 1);
 
@@ -514,7 +514,7 @@ public:
         sizePolicy3.setHeightForWidth(motionYLabel->sizePolicy().hasHeightForWidth());
         motionYLabel->setSizePolicy(sizePolicy3);
         motionYLabel->setFont(font1);
-        motionYLabel->setAlignment(Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter);
+        motionYLabel->setAlignment(Qt::AlignLeading | Qt::AlignLeft | Qt::AlignVCenter);
 
         gridLayout_2->addWidget(motionYLabel, 1, 0, 1, 1);
 
@@ -539,7 +539,7 @@ public:
         sizePolicy3.setHeightForWidth(motionZLabel->sizePolicy().hasHeightForWidth());
         motionZLabel->setSizePolicy(sizePolicy3);
         motionZLabel->setFont(font1);
-        motionZLabel->setAlignment(Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter);
+        motionZLabel->setAlignment(Qt::AlignLeading | Qt::AlignLeft | Qt::AlignVCenter);
 
         gridLayout_2->addWidget(motionZLabel, 2, 0, 1, 1);
 
@@ -805,7 +805,7 @@ public:
         CreditLabel = new QLabel(centralWidget);
         CreditLabel->setObjectName(QString::fromUtf8("CreditLabel"));
         CreditLabel->setFont(font1);
-        CreditLabel->setAlignment(Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter);
+        CreditLabel->setAlignment(Qt::AlignRight | Qt::AlignTrailing | Qt::AlignVCenter);
 
         horizontalLayout_3->addWidget(CreditLabel);
 
@@ -822,7 +822,7 @@ public:
         QMetaObject::connectSlotsByName(PearlCannonHelperClass);
     } // setupUi
 
-    void retranslateUi(QMainWindow *PearlCannonHelperClass)
+    void retranslateUi(QMainWindow* PearlCannonHelperClass)
     {
         PearlCannonHelperClass->setWindowTitle(QApplication::translate("PearlCannonHelperClass", "PearlCannonHelper", nullptr));
         groupBox_3->setTitle(QApplication::translate("PearlCannonHelperClass", "360FTLH information", nullptr));
@@ -938,7 +938,7 @@ public:
 };
 
 namespace Ui {
-    class PearlCannonHelperClass: public Ui_PearlCannonHelperClass {};
+    class PearlCannonHelperClass : public Ui_PearlCannonHelperClass {};
 } // namespace Ui
 
 QT_END_NAMESPACE
